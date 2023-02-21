@@ -1,0 +1,5 @@
+﻿,Rented Bike Count,Hour,Temperature(°C),Humidity(%),Wind speed (m/s),Visibility (10m),Dew point temperature(°C),Solar Radiation (MJ/m2),Rainfall(mm),Snowfall (cm)
+max,3556,23,39.4,98,7.4,2000,27.2,3.52,35,8.8
+min,0,0,-17.8,0,0,27,-30.6,0,0,0
+mean,704.60205,11.5,12.882922,58.226256,1.7249087,1436.8258,4.0738128,0.56911073,0.14868721,0.075068493
+standard deviation,644.99747,6.9225817,11.944825,20.362413,1.0363,608.29871,13.060369,0.86874624,1.128193,0.43674618
