@@ -1,0 +1,4 @@
+﻿Model,R Squared,Root Mean Squared Error,Mean Absolute Error,Number of Features,Feature Indices,Feature Names
+Linear Regression,0.11617637081357539,468.0294823663995,373.3663726027712,7,"(1, 4, 7, 9, 10, 14, 17)","('Temperature(°C)', 'Visibility (10m)', 'Rainfall(mm)', 'Holiday', 'Functioning Day', 'Autumn', 'Winter')"
+Regression Tree,0.4506262592553081,338.5237716161271,222.7937214611872,12,"(0, 1, 2, 6, 7, 8, 9, 10, 13, 14, 16, 17)","('Hour', 'Temperature(°C)', 'Humidity(%)', 'Solar Radiation (MJ/m2)', 'Rainfall(mm)', 'Snowfall (cm)', 'Holiday', 'Functioning Day', 'Year', 'Autumn', 'Summer', 'Winter')"
+K-Nearest Neighbours,0.4314298604527858,348.876642540099,244.9212994672755,8,"(0, 1, 5, 7, 10, 14, 16, 17)","('Hour', 'Temperature(°C)', 'Dew point temperature(°C)', 'Rainfall(mm)', 'Functioning Day', 'Autumn', 'Summer', 'Winter')"
